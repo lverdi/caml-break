@@ -1,0 +1,1959 @@
+commit c5a00551aa1a509ca5f965b0e4ec875d506498c5
+Merge: ba734eb e0198df
+Author: Ghp <ghp42@cornell.edu>
+Date:   Tue May 15 16:11:55 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/lev27/caml-break
+
+commit ba734ebfbf730a5db6f83bed9da8a5f777941503
+Author: Ghp <ghp42@cornell.edu>
+Date:   Tue May 15 16:11:51 2018 -0400
+
+    specs added
+
+commit e0198df1bdbbf6632710970d4b77ecc4cfcf206b
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Tue May 15 16:07:20 2018 -0400
+
+    update readme
+
+commit 1d520492d6815ecf16439589c4acbb03a95e22c7
+Author: Jonathan Kamanou <jpk249@cornell.edu>
+Date:   Tue May 15 16:05:04 2018 -0400
+
+    mm
+
+commit ab3bfe19e9670719ca8cb2562917e5c99fc2c497
+Author: Ghp <ghp42@cornell.edu>
+Date:   Tue May 15 13:45:33 2018 -0400
+
+    got rid of firebugs
+
+commit 555f93d50f8368f879f7f9ce1f90ec7c05a51803
+Author: Ghp <ghp42@cornell.edu>
+Date:   Tue May 15 13:38:19 2018 -0400
+
+    push
+
+commit aeb733a4226ce69b43d545e76389df40ec99b22d
+Merge: 37bc1b3 63122d4
+Author: Ghp <ghp42@cornell.edu>
+Date:   Tue May 15 12:07:48 2018 -0400
+
+    conflicts solved
+
+commit 37bc1b3e5ca167d55c2d7a5cc5e309eca026ee9b
+Author: Ghp <ghp42@cornell.edu>
+Date:   Tue May 15 12:06:55 2018 -0400
+
+    ?
+
+commit 63122d4ac87745c1a475a20eede96a84a7ec7525
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Tue May 15 09:01:41 2018 -0400
+
+    last push for game
+
+commit 9f528d58e45a65150fbf3aa5905bd859bfbb3a08
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Tue May 15 08:52:00 2018 -0400
+
+    almost done
+
+commit 298876733b8bea09d56fd3cf6d2135ef93cba34f
+Merge: 77773ef bbaa364
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Tue May 15 08:44:07 2018 -0400
+
+    Merge branch 'master' of github.coecis.cornell.edu:lev27/caml-break
+
+commit bbaa364cbad44a784e37ad7d4f928fa97bbc0dfa
+Author: Jonathan Kamanou <jpk249@cornell.edu>
+Date:   Tue May 15 08:58:46 2018 -0400
+
+    mmm
+
+commit fddd934c3a1bab0790dabb500b3d5b4920d0e1ca
+Author: Jonathan Kamanou <jpk249@cornell.edu>
+Date:   Tue May 15 08:49:00 2018 -0400
+
+    m
+
+commit 77773eff0ca5cb988f65334d4f7125a0bba4e173
+Merge: 713ce32 fddd934
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Tue May 15 08:43:06 2018 -0400
+
+    merging
+
+commit 713ce32ecb9bac2d605c1e4c5fe1b994068f21cd
+Merge: 0f010a1 5c19b3e
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Tue May 15 08:32:48 2018 -0400
+
+    merge
+
+commit 0f010a19b9765a8c5555cde4e586e98b7f20e5cb
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Tue May 15 08:31:47 2018 -0400
+
+    toilet breaking
+
+commit 5c19b3ea343bdc1fa76649b84694989ff9653ed6
+Author: Jonathan Kamanou <jpk249@cornell.edu>
+Date:   Tue May 15 07:14:55 2018 -0400
+
+    sht
+
+commit 5af5098b3f58a67ee23a6e9f4e25636d9e5a6db8
+Merge: b93063d 6170f4a
+Author: Jonathan Kamanou <jpk249@cornell.edu>
+Date:   Tue May 15 07:05:42 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/lev27/caml-break
+
+commit b93063d2d987bf30ba5b8b5566963a67092d8f0f
+Author: Jonathan Kamanou <jpk249@cornell.edu>
+Date:   Tue May 15 07:05:40 2018 -0400
+
+    m
+
+commit 3ed9e73e04f7dad880df68e20dd35edfdab5daf2
+Author: Jonathan Kamanou <jpk249@cornell.edu>
+Date:   Tue May 15 06:53:40 2018 -0400
+
+    clover
+
+commit 6170f4aa559ebe51d26964cf38961973ac915f0a
+Merge: 7e55796 3ed9e73
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Tue May 15 06:47:09 2018 -0400
+
+    Merge branch 'master' of github.coecis.cornell.edu:lev27/caml-break
+
+commit 7e55796de789d923f4093bf2e43970d29f4a5c1b
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Tue May 15 06:47:03 2018 -0400
+
+    fixed chest
+
+commit e02534dde3843a1049af772170b56b31cc9cce14
+Author: Jonathan Kamanou <jpk249@cornell.edu>
+Date:   Tue May 15 06:29:02 2018 -0400
+
+    m
+
+commit 80471d9c38fadd485a5da4b7f5b45b18401e1f96
+Merge: f3f7bcf d44a644
+Author: Jonathan Kamanou <jpk249@cornell.edu>
+Date:   Tue May 15 06:22:42 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/lev27/caml-break
+
+commit f3f7bcfe8762c86505c6d531303d70857f073141
+Author: Jonathan Kamanou <jpk249@cornell.edu>
+Date:   Tue May 15 06:22:39 2018 -0400
+
+    m
+
+commit e261a6c414ac94552c2e6576f5b3a4ffe2d9b51d
+Merge: 5529a30 baaccb4
+Author: Jonathan Kamanou <jpk249@cornell.edu>
+Date:   Tue May 15 06:15:23 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/lev27/caml-break
+
+commit 5529a308f13d23cb7835010c5302e7d86524ca08
+Author: Jonathan Kamanou <jpk249@cornell.edu>
+Date:   Tue May 15 06:15:20 2018 -0400
+
+    m
+
+commit d44a6445d0023c7ca375abc21ceb6a30503e91a7
+Merge: 57c7e41 0300059
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Tue May 15 06:06:55 2018 -0400
+
+    Merge branch 'master' of github.coecis.cornell.edu:lev27/caml-break
+
+commit 0300059cd74a6a3196d40a1164bf3741390ba501
+Author: Ghp <ghp42@cornell.edu>
+Date:   Tue May 15 06:20:38 2018 -0400
+
+    hi
+
+commit e4bf8d5abb6c02adf53cce789bf9be9eaef3f5a2
+Merge: 05fa9dd e261a6c
+Author: Ghp <ghp42@cornell.edu>
+Date:   Tue May 15 06:17:34 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/lev27/caml-break
+
+commit 05fa9dd5794f2e4d242ab6775de3d73e619d2b4a
+Author: Ghp <ghp42@cornell.edu>
+Date:   Tue May 15 06:17:28 2018 -0400
+
+    hi
+
+commit 57c7e41ecbe63bf04b4dca57c4d3ffa80517dbb6
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Tue May 15 06:06:46 2018 -0400
+
+    seafih
+
+commit baaccb470ad48e903e457a5dd66aef61d260b948
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Tue May 15 05:56:07 2018 -0400
+
+    changing clothes
+
+commit a7b1ed190f812ced8e9d2f82f8a8c4ae62ff8780
+Author: Ghp <ghp42@cornell.edu>
+Date:   Tue May 15 06:07:07 2018 -0400
+
+    shirts
+
+commit 040a13057ac1c1cf40594b8190d2622a5ad7222a
+Merge: c9193bb 9a4bdd5
+Author: Ghp <ghp42@cornell.edu>
+Date:   Tue May 15 05:55:35 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/lev27/caml-break
+
+commit c9193bba626bba6805c43f9434601e1b782c41c8
+Author: Ghp <ghp42@cornell.edu>
+Date:   Tue May 15 05:55:29 2018 -0400
+
+    officer walking sprites
+
+commit bec216a7cc677f559f78f0ce69b98a4e1bdc4be6
+Author: Ghp <ghp42@cornell.edu>
+Date:   Tue May 15 05:41:13 2018 -0400
+
+    clover on grass
+
+commit 1046fb25bfeaa596f041620d2f0d1cdc07827bc7
+Author: Ghp <ghp42@cornell.edu>
+Date:   Tue May 15 05:38:10 2018 -0400
+
+    hi
+
+commit 9a4bdd5150528f8834457b5022aef0283135aac3
+Merge: 8704da7 4b8eb5c
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Tue May 15 05:34:12 2018 -0400
+
+    Merge branch 'master' of github.coecis.cornell.edu:lev27/caml-break
+
+commit 4b8eb5cc65bfedcf18f0f01d32dfdf7a6fd007cc
+Merge: a5fab2c bec216a
+Author: Jonathan Kamanou <jpk249@cornell.edu>
+Date:   Tue May 15 05:41:27 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/lev27/caml-break
+
+commit a5fab2cfe4661f8ad216b6e7ebf1a73d548f1c47
+Author: Jonathan Kamanou <jpk249@cornell.edu>
+Date:   Tue May 15 05:41:24 2018 -0400
+
+    msms
+
+commit 8704da714d46b173a9db8ed89913c9b767626294
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Tue May 15 05:34:06 2018 -0400
+
+    seiufhsiu
+
+commit 99d563561b7126a0d7f87cd87cec6052d12e5b93
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Tue May 15 05:32:10 2018 -0400
+
+    changing shitmake
+
+commit aadc28e1762d263958a369be8d37fd879eecbdcb
+Author: Ghp <ghp42@cornell.edu>
+Date:   Tue May 15 05:31:16 2018 -0400
+
+    shirt
+
+commit d79318d59ed867869fc516854ac40d4d3a41b535
+Author: Ghp <ghp42@cornell.edu>
+Date:   Tue May 15 05:29:03 2018 -0400
+
+    hi
+
+commit d373ea3e9c795c163ef43e797a82063eac715143
+Author: Ghp <ghp42@cornell.edu>
+Date:   Tue May 15 05:20:06 2018 -0400
+
+    edited
+
+commit d5a62705fd5d48755f38f6005d01f4fe4c7b91ff
+Merge: 81ad71e aadc28e
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Tue May 15 05:18:02 2018 -0400
+
+    Merge branch 'master' of github.coecis.cornell.edu:lev27/caml-break
+
+commit 81ad71ef1f0beb7d469dfcc2fb62078e6554a565
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Tue May 15 05:17:59 2018 -0400
+
+    wefuew
+
+commit 4ee9e1148d82643552116fe4303ba80df6a1d22a
+Merge: 8b0b1a3 b69cdcd
+Author: Jonathan Kamanou <jpk249@cornell.edu>
+Date:   Tue May 15 05:17:08 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/lev27/caml-break
+
+commit 8b0b1a3276ffe6d7645a360b620131a6501621c8
+Author: Jonathan Kamanou <jpk249@cornell.edu>
+Date:   Tue May 15 05:16:48 2018 -0400
+
+    m
+
+commit 8e85f9ea71276b6757627e7d10a8cb13be5a09f1
+Author: Ghp <ghp42@cornell.edu>
+Date:   Tue May 15 05:14:12 2018 -0400
+
+    adjusted apple size
+
+commit ca33148242f7dd87314b16d96ba2161261fa2c9e
+Author: Ghp <ghp42@cornell.edu>
+Date:   Tue May 15 05:12:15 2018 -0400
+
+    added stuff
+
+commit 61e2477f92143a6aec21f496b2f9564fe3872753
+Author: Ghp <ghp42@cornell.edu>
+Date:   Tue May 15 05:05:28 2018 -0400
+
+    script
+
+commit 8eae54276ad4cdc87ff44e56c3549c69165b0db5
+Author: Ghp <ghp42@cornell.edu>
+Date:   Tue May 15 05:03:57 2018 -0400
+
+    axe size adjusted
+
+commit a5a0b7ab46576f1289e6563861e7a21869526dcb
+Merge: 8e095aa 6640636
+Author: Ghp <ghp42@cornell.edu>
+Date:   Tue May 15 05:01:47 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/lev27/caml-break
+
+commit 8e095aab3f1a9adebcad315b8ce5c3f1d79b8ecf
+Author: Ghp <ghp42@cornell.edu>
+Date:   Tue May 15 05:01:39 2018 -0400
+
+    toilet added
+
+commit b69cdcda32ce385680b9fe42a79c44daf0147f62
+Merge: 0766217 8e85f9e
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Tue May 15 05:00:50 2018 -0400
+
+    merge
+
+commit 6640636010bff23ad102fe761825cf8755394594
+Merge: 9d3309b 3ad34be
+Author: Jonathan Kamanou <jpk249@cornell.edu>
+Date:   Tue May 15 04:58:24 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/lev27/caml-break
+
+commit 076621757f82322d18c16014c66c8edd0cc29b7c
+Merge: 18f0ef7 61e2477
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Tue May 15 04:54:05 2018 -0400
+
+    Merge branch 'master' of github.coecis.cornell.edu:lev27/caml-break
+
+commit 18f0ef7ea4afa7b49860e43689dce9c374253501
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Tue May 15 04:54:01 2018 -0400
+
+    game changes
+
+commit 9d3309b4e9beda68445bb8ce5862d5cce3e9c417
+Merge: 3039a16 227f6ac
+Author: Jonathan Kamanou <jpk249@cornell.edu>
+Date:   Tue May 15 04:46:16 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/lev27/caml-break
+
+commit 3ad34be7197e8def9826fee958e45524dc0aca8a
+Merge: 774ba9a 227f6ac
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Tue May 15 04:43:14 2018 -0400
+
+    fixed everything
+
+commit 3039a16c378bfaf3c05e9507ac30ce5a05f97efa
+Author: Jonathan Kamanou <jpk249@cornell.edu>
+Date:   Tue May 15 04:39:24 2018 -0400
+
+    m
+
+commit 227f6acd1aba2c04d77874fdfd713fe8e7d6fc77
+Merge: 3feb50c f2ab0ee
+Author: Ghp <ghp42@cornell.edu>
+Date:   Tue May 15 04:38:53 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/lev27/caml-break
+
+commit 3feb50c1157d63940156a4297a88f9ad39341698
+Author: Ghp <ghp42@cornell.edu>
+Date:   Tue May 15 04:35:00 2018 -0400
+
+    oops
+
+commit 9c3b8098df09ad4303074fa1da93e6e017d1f574
+Author: Ghp <ghp42@cornell.edu>
+Date:   Tue May 15 04:34:04 2018 -0400
+
+    stories
+
+commit f2ab0eef78897ff846157d4d410594743a793fbb
+Merge: e0e17f7 04510c7
+Author: Jonathan Kamanou <jpk249@cornell.edu>
+Date:   Tue May 15 04:23:31 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/lev27/caml-break
+
+commit e0e17f7e900e74ea202af6c3ed110532f5fae5e0
+Author: Jonathan Kamanou <jpk249@cornell.edu>
+Date:   Tue May 15 04:23:28 2018 -0400
+
+    lll
+
+commit 774ba9a41f4a95edbe374c35743581f835f95234
+Merge: 15277ee f2ab0ee
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Tue May 15 04:17:51 2018 -0400
+
+    Merge branch 'master' of github.coecis.cornell.edu:lev27/caml-break
+
+commit 15277ee3bc22958a94d9dabfe00821e558c85f41
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Tue May 15 04:17:47 2018 -0400
+
+    moved inital player
+
+commit 04510c7672a4b57701673a48d0609e3577f0c911
+Merge: 2f276c9 ab8dfbd
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Tue May 15 03:54:29 2018 -0400
+
+    merged
+
+commit 2f276c9e3f6442fe9e52cb23b23954bc0d19b69a
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Tue May 15 03:51:31 2018 -0400
+
+    wrapping strings
+
+commit ab8dfbd88ff077718ec34363979ca3f3057ecbdf
+Author: Ghp <ghp42@cornell.edu>
+Date:   Tue May 15 03:35:35 2018 -0400
+
+    haaallooooo
+
+commit 44ab165777f41e42edf7823c11a0123a8d36c773
+Merge: 32c47fe 3656702
+Author: Jonathan Kamanou <jpk249@cornell.edu>
+Date:   Tue May 15 03:33:35 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/lev27/caml-break
+
+commit 32c47feb9fe24b5dae49921f81a74f35a5a17e28
+Author: Jonathan Kamanou <jpk249@cornell.edu>
+Date:   Tue May 15 03:33:20 2018 -0400
+
+    m
+
+commit 365670203b2b9a3654d5b5e409aed3346c46c2eb
+Author: Ghp <ghp42@cornell.edu>
+Date:   Tue May 15 03:33:09 2018 -0400
+
+    redesigned textbox
+
+commit 38b7f89ab784b8aae28cb82bc35189318cdc8fc8
+Author: Ghp <ghp42@cornell.edu>
+Date:   Tue May 15 03:28:57 2018 -0400
+
+    adjustment of sprite size
+
+commit cffcf53a8d1f0e111a70c2f43aad2f915c9c344c
+Author: Ghp <ghp42@cornell.edu>
+Date:   Tue May 15 03:28:12 2018 -0400
+
+    another song change -_- ugh
+
+commit 92c1836f16e5a6bcacfdc39345b5429e5967d239
+Merge: 1e07272 32c0363
+Author: Jonathan Kamanou <jpk249@cornell.edu>
+Date:   Tue May 15 03:23:07 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/lev27/caml-break
+
+commit 1e0727259f328646b31609e6412d6dfc2ebe55cf
+Author: Jonathan Kamanou <jpk249@cornell.edu>
+Date:   Tue May 15 03:22:57 2018 -0400
+
+    m
+
+commit 32c0363de310f5e2d2d3fa95310d9c323b05c133
+Author: Ghp <ghp42@cornell.edu>
+Date:   Tue May 15 03:22:32 2018 -0400
+
+    adjusted sizes for sprites
+
+commit 406b8be3fe7331d22d42e76f3d4eb9edd67ea35a
+Author: Ghp <ghp42@cornell.edu>
+Date:   Tue May 15 03:20:14 2018 -0400
+
+    changed song
+
+commit ba2739e3e7ccd04444c4baa74a1467619109d620
+Merge: 02dd489 2f3a548
+Author: Ghp <ghp42@cornell.edu>
+Date:   Tue May 15 03:15:50 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/lev27/caml-break
+
+commit 02dd489ef7cc259e667aa3756991091568148589
+Author: Ghp <ghp42@cornell.edu>
+Date:   Tue May 15 03:15:42 2018 -0400
+
+    added instructions
+
+commit 2f3a5488a6ef54958d56c64bb93d88aee2aca41a
+Merge: d9689f6 f77cf37
+Author: Jonathan Kamanou <jpk249@cornell.edu>
+Date:   Tue May 15 03:09:29 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/lev27/caml-break
+
+commit d9689f6ec956df37d5ebccf56a146619271180ba
+Author: Jonathan Kamanou <jpk249@cornell.edu>
+Date:   Tue May 15 03:09:27 2018 -0400
+
+    m
+
+commit 81194d05dd8cfd95720a586992267b1a20767f19
+Merge: 2fb1b28 ba2739e
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Tue May 15 03:02:07 2018 -0400
+
+    Merge branch 'master' of github.coecis.cornell.edu:lev27/caml-break
+
+commit 2fb1b284c3555d7c477d92ff5c9d54b1ec78a719
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Tue May 15 03:02:04 2018 -0400
+
+    working on str length
+
+commit 5203acc34a8179dc5547d5f305798b629f0c1e8e
+Merge: f3e0401 4dbe162
+Author: Ghp <ghp42@cornell.edu>
+Date:   Tue May 15 03:01:14 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/lev27/caml-break
+
+commit f3e0401053c36408f00122ca8a6c3a7d6db35132
+Author: Ghp <ghp42@cornell.edu>
+Date:   Tue May 15 03:01:09 2018 -0400
+
+    added to index.html
+
+commit 4dbe162ddf1eff72588fe9eab0af21c2c68a4217
+Merge: ed1c33e 5bb0a3d
+Author: Jonathan Kamanou <jpk249@cornell.edu>
+Date:   Tue May 15 02:59:23 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/lev27/caml-break
+
+commit ed1c33e13f551c079d6dfd0ecfa480b834715fe8
+Author: Jonathan Kamanou <jpk249@cornell.edu>
+Date:   Tue May 15 02:58:47 2018 -0400
+
+    mmmm
+
+commit f77cf37fb316bc9fca2126a3287bbdc33530b287
+Merge: 97d125a 5203acc
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Tue May 15 02:50:29 2018 -0400
+
+    Merge branch 'master' of github.coecis.cornell.edu:lev27/caml-break
+
+commit 97d125aed2dd3b2543b053ef5893afacbd707691
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Tue May 15 02:50:25 2018 -0400
+
+    fixed key chest
+
+commit 5bb0a3d7b8605a239c6c21a16ff199bb0d2af5b9
+Merge: ac4f251 829e4a8
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Tue May 15 02:43:27 2018 -0400
+
+    Merge branch 'master' of github.coecis.cornell.edu:lev27/caml-break
+
+commit 829e4a80979d9fcc575a1ac2677ca89acc544a35
+Author: Ghp <ghp42@cornell.edu>
+Date:   Tue May 15 02:53:37 2018 -0400
+
+    more sprites and music
+
+commit ac4f251ad4ee03d3fcc494d85d56fbbf1c5d4f6d
+Merge: 51ac90a b45f078
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Tue May 15 02:43:20 2018 -0400
+
+    remove item when chest opened
+
+commit 51ac90a5ed90ea853a49a2a84c98215d33fb22a2
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Tue May 15 02:30:41 2018 -0400
+
+    implemented trades
+
+commit b45f07888b21563fafd2503a98489aa35c880c5a
+Author: Ghp <ghp42@cornell.edu>
+Date:   Tue May 15 02:27:52 2018 -0400
+
+    minor edits
+
+commit 22555c7de097c5e56d75a60fb8793729f53575f2
+Merge: cb4cea8 bbfbae5
+Author: Jonathan Kamanou <jpk249@cornell.edu>
+Date:   Tue May 15 02:25:35 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/lev27/caml-break
+
+commit cb4cea8f3155a2648a6141c8aa477e5bb10608f1
+Author: Jonathan Kamanou <jpk249@cornell.edu>
+Date:   Tue May 15 02:25:32 2018 -0400
+
+    door opens
+
+commit bbfbae5d069abb2c32cc82c5e789e12fca5a2aa3
+Author: Ghp <ghp42@cornell.edu>
+Date:   Tue May 15 02:23:26 2018 -0400
+
+    changed font
+
+commit 9e4a6815c2d0fc152ec2e3095e32e0ac24f001e2
+Author: Ghp <ghp42@cornell.edu>
+Date:   Tue May 15 02:03:57 2018 -0400
+
+    hi
+
+commit 133d5613043870a0c8e80fa56477640fc51548c2
+Author: Ghp <ghp42@cornell.edu>
+Date:   Tue May 15 01:49:58 2018 -0400
+
+    None in room
+
+commit bee5cbb55401f0343fa2e904d10dc4d5a8da1046
+Merge: 05a3414 968cb45
+Author: Ghp <ghp42@cornell.edu>
+Date:   Tue May 15 01:41:20 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/lev27/caml-break
+
+commit 05a34148eefe9829cbf71b824a8590760c77a910
+Author: Ghp <ghp42@cornell.edu>
+Date:   Tue May 15 01:40:52 2018 -0400
+
+    instructions
+
+commit 968cb45ee0cf2f8036e995d52b81a0a6983f8e46
+Author: Jonathan Kamanou <jpk249@cornell.edu>
+Date:   Tue May 15 01:22:17 2018 -0400
+
+    m
+
+commit 52184a8ab22c6007355a46fbad392549f3e84a98
+Merge: 6f2e6a9 00be214
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Tue May 15 00:51:34 2018 -0400
+
+    merged
+
+commit 00be21485b79b441812783a6351ecf3de6b8abb1
+Author: Ghp <ghp42@cornell.edu>
+Date:   Tue May 15 00:51:51 2018 -0400
+
+    fix
+
+commit 6f2e6a94d9fc72acf38c165a6f799e12417ca04d
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Tue May 15 00:51:09 2018 -0400
+
+    fixed chest
+
+commit 121570241237c995131b8aa9965bb061ba3ecaa0
+Author: Ghp <ghp42@cornell.edu>
+Date:   Tue May 15 00:49:54 2018 -0400
+
+    key size changed
+
+commit d9725b7bcfb384a6e981113737504d534148dcd2
+Author: Ghp <ghp42@cornell.edu>
+Date:   Tue May 15 00:43:53 2018 -0400
+
+    added None type
+
+commit 7ae54d3eb2b3fe1fd13f8e64187342a7898058f6
+Author: Ghp <ghp42@cornell.edu>
+Date:   Tue May 15 00:43:21 2018 -0400
+
+    gu
+
+commit 98b0d5bf85a3d1a8dd2211e23bd163d2a123f930
+Merge: d2c5041 76f3d00
+Author: Ghp <ghp42@cornell.edu>
+Date:   Tue May 15 00:42:55 2018 -0400
+
+    hi
+
+commit d2c50417db4b2f0c6cadb075fa077a67cbecb5ca
+Merge: bb3d5ea 290e6e3
+Author: Ghp <ghp42@cornell.edu>
+Date:   Tue May 15 00:40:46 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/lev27/caml-break
+
+commit bb3d5eaedad9779b86a2a0c1bde67ec30e173320
+Author: Ghp <ghp42@cornell.edu>
+Date:   Tue May 15 00:40:43 2018 -0400
+
+    type none for items
+
+commit 290e6e339bb1642b12b2cbed3f281937a5faaefe
+Merge: 9501500 ec40adb
+Author: Jonathan Kamanou <jpk249@cornell.edu>
+Date:   Tue May 15 00:31:54 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/lev27/caml-break
+
+commit 950150079996105542d73a5c861c5892571c408b
+Author: Jonathan Kamanou <jpk249@cornell.edu>
+Date:   Tue May 15 00:31:40 2018 -0400
+
+    m
+
+commit 0f5ae79968046d265a36244a3273747c24df1514
+Merge: 5acd00e d9725b7
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Tue May 15 00:31:13 2018 -0400
+
+    Merge branch 'master' of github.coecis.cornell.edu:lev27/caml-break
+
+commit 5acd00e81454991f2a0a224eb8f3dc73658c4e9c
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Tue May 15 00:31:10 2018 -0400
+
+    hi
+
+commit c3c716d85bcc19b303934205aaf5cc47b4e8efb1
+Author: Ghp <ghp42@cornell.edu>
+Date:   Tue May 15 00:25:49 2018 -0400
+
+    coinz
+
+commit 76f3d00213fd75c0b2fb7ec50a964a5d71cd1b44
+Merge: 123b450 290e6e3
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Tue May 15 00:25:33 2018 -0400
+
+    Merge branch 'master' of github.coecis.cornell.edu:lev27/caml-break
+
+commit 123b4500ceac7ffab0d34149c029c5fdbc373c8f
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Tue May 15 00:25:29 2018 -0400
+
+    empty_item only one place
+
+commit ec40adb95c3321b5c3a7a5c515949dd0c33502c2
+Merge: 3b558de c3c716d
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Tue May 15 00:16:23 2018 -0400
+
+    Merge branch 'master' of github.coecis.cornell.edu:lev27/caml-break
+
+commit 3b558de6622801b521b6de0fed4859fe274cd42b
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Tue May 15 00:16:15 2018 -0400
+
+    booooo
+
+commit 8dda02a2e9dfee6b6e631e69c047944f6cbd813f
+Author: Ghp <ghp42@cornell.edu>
+Date:   Tue May 15 00:13:11 2018 -0400
+
+    drop items visuals
+
+commit ebd5eb606e45bae6a696a1d06a19664ce012417b
+Author: Ghp <ghp42@cornell.edu>
+Date:   Tue May 15 00:06:33 2018 -0400
+
+    edits
+
+commit f75e36c087102a38df24ed28a85b9e7fcdf52977
+Merge: 2905b67 ed92e01
+Author: Ghp <ghp42@cornell.edu>
+Date:   Tue May 15 00:03:23 2018 -0400
+
+    edits
+
+commit 5b5258b07083a74f688e581b898bc3f9f6ecf1dc
+Merge: e5a5c35 8dda02a
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Tue May 15 00:02:56 2018 -0400
+
+    Merge branch 'master' of github.coecis.cornell.edu:lev27/caml-break
+
+commit e5a5c356e9768f9852b465ac393dd4fc0431cc8e
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Tue May 15 00:02:54 2018 -0400
+
+    merging
+
+commit 2905b67daee3f0dd15253c55ad8fac024af79ced
+Author: Ghp <ghp42@cornell.edu>
+Date:   Tue May 15 00:02:23 2018 -0400
+
+    this one is weird
+
+commit ed92e019f0c9c48f095ba4a4481fff9e81d0cc37
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Mon May 14 23:44:12 2018 -0400
+
+    fixed drop
+
+commit d3151eca660461286feeae6c14034a81a3cde1b8
+Merge: 6afaaee cba657c
+Author: Ghp <ghp42@cornell.edu>
+Date:   Mon May 14 23:20:43 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/lev27/caml-break
+
+commit 6afaaeef6482159652f356076255fd790e1fa281
+Author: Ghp <ghp42@cornell.edu>
+Date:   Mon May 14 23:20:36 2018 -0400
+
+    luis u suckkkkkkk
+
+commit 8bf24fd6b6bf86f0cb011d9239a0d28907f5dc89
+Merge: 18d7d48 5c241d2
+Author: Ghp <ghp42@cornell.edu>
+Date:   Mon May 14 23:02:18 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/lev27/caml-break
+
+commit 18d7d48476ea539fd9a285f37dd88efa956ba806
+Author: Ghp <ghp42@cornell.edu>
+Date:   Mon May 14 23:02:10 2018 -0400
+
+    inventory
+
+commit 5c241d217c4ebc7f279094770485806ec1fe9c33
+Author: Jonathan Kamanou <jpk249@cornell.edu>
+Date:   Mon May 14 22:57:01 2018 -0400
+
+    shit
+
+commit cba657c4817320978506009009ea192adfa6b936
+Merge: 0ef724d 8bf24fd
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Mon May 14 22:55:47 2018 -0400
+
+    Merge branch 'master' of github.coecis.cornell.edu:lev27/caml-break
+
+commit 0ef724d804f88cd90e4d7585795e6414a00ae10a
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Mon May 14 22:55:43 2018 -0400
+
+    grab finished
+
+commit 6367663e49d7d36333bd639f41cf95ce3db2a92f
+Merge: a0fc53f 9856b9a
+Author: Jonathan Kamanou <jpk249@cornell.edu>
+Date:   Mon May 14 22:45:55 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/lev27/caml-break
+
+commit a0fc53f293df5876fda62c3f4d5ff814a2404439
+Author: Jonathan Kamanou <jpk249@cornell.edu>
+Date:   Mon May 14 22:45:53 2018 -0400
+
+    m
+
+commit 21cc34fefdc3f3ccebe7b5827f468a33d6a6a5c6
+Merge: 9af95aa 3d4fba6
+Author: Jonathan Kamanou <jpk249@cornell.edu>
+Date:   Mon May 14 22:37:26 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/lev27/caml-break
+
+commit 9af95aa7a3636c264d61eb91facf64b9126751a6
+Author: Jonathan Kamanou <jpk249@cornell.edu>
+Date:   Mon May 14 22:36:32 2018 -0400
+
+    c
+
+commit 9856b9a3d4ff14dc95076492fbd0b263ab4c9145
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Mon May 14 22:30:05 2018 -0400
+
+    merg prob
+
+commit 6eaf69ff1b3e4f26eb682137bc1d4bb04786a496
+Merge: 3e5928d 21cc34f
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Mon May 14 22:25:25 2018 -0400
+
+    Merge branch 'master' of github.coecis.cornell.edu:lev27/caml-break
+
+commit 3e5928dfbeca6f210dd39edccd9f2b6915a2dd0e
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Mon May 14 22:25:23 2018 -0400
+
+    changing state
+
+commit 3d4fba6d3d57843fb4df5b67f91813cd7cb0954d
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Mon May 14 22:20:07 2018 -0400
+
+    changing inv to items
+
+commit 7b2816f25f5e64b87d328df6010013fe22970f88
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Mon May 14 21:23:59 2018 -0400
+
+    complining again
+
+commit 9fd40218d451c61c150e1f0039f7d76df8c932bd
+Merge: 819bea8 e41b52e
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Mon May 14 20:58:48 2018 -0400
+
+    merged
+
+commit e41b52e56844401d3c856011cf8e500d54a1e138
+Merge: 1b31a27 a8fe0a9
+Author: Jonathan Kamanou <jpk249@cornell.edu>
+Date:   Mon May 14 21:10:49 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/lev27/caml-break
+
+commit 1b31a27421d5935b63c8cd20708a058dd549a654
+Author: Jonathan Kamanou <jpk249@cornell.edu>
+Date:   Mon May 14 21:10:46 2018 -0400
+
+    i
+
+commit a8fe0a96c2a2693749acc8ee7aecffe15c96355b
+Merge: 68cb983 c84f892
+Author: Ghp <ghp42@cornell.edu>
+Date:   Mon May 14 20:40:16 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/lev27/caml-break
+
+commit 68cb9834b5f24df91df5c2ac58d43a3d09f232e4
+Author: Ghp <ghp42@cornell.edu>
+Date:   Mon May 14 20:40:07 2018 -0400
+
+    gui works
+
+commit c84f892ec2d9de769573b217740451914fafa59a
+Merge: 5ebbf4d 0ff98ac
+Author: Jonathan Kamanou <jpk249@cornell.edu>
+Date:   Mon May 14 20:38:00 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/lev27/caml-break
+
+commit 5ebbf4d5170f33a5986e8b4ddbb07da5b024fb93
+Author: Jonathan Kamanou <jpk249@cornell.edu>
+Date:   Mon May 14 20:37:58 2018 -0400
+
+    s
+
+commit 0ff98ac57cf74adb5401eed0827e7ab85af58e9f
+Author: Ghp <ghp42@cornell.edu>
+Date:   Mon May 14 20:32:37 2018 -0400
+
+    hi
+
+commit 5dbaa28b67940883770594dac628c51ef6c15f4b
+Author: Ghp <ghp42@cornell.edu>
+Date:   Mon May 14 20:26:40 2018 -0400
+
+    small change
+
+commit 819bea8aad43f43ebd8073293215b511e1eb97eb
+Merge: 861b221 c84f892
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Mon May 14 20:23:08 2018 -0400
+
+    Merge branch 'master' of github.coecis.cornell.edu:lev27/caml-break
+
+commit 861b221a98195fc8f779cff0e14b9386d5150c08
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Mon May 14 20:23:05 2018 -0400
+
+    idk
+
+commit 7214eb5c2e8c1e3ef0936dfd0edc821c991147f3
+Merge: 835ead7 80f17ef
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Mon May 14 20:10:20 2018 -0400
+
+    Merge branch 'master' of github.coecis.cornell.edu:lev27/caml-break
+
+commit 835ead7b2e1bffcb394e7152507343efe0a505a4
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Mon May 14 20:10:14 2018 -0400
+
+    restructured items
+
+commit 80f17ef5fa2cd46faee12258b65b22408a5faee4
+Author: Jonathan Kamanou <jpk249@cornell.edu>
+Date:   Mon May 14 19:56:09 2018 -0400
+
+    op
+
+commit 34b27f6a9a1710d55c6e265d0aebb81652e571dd
+Author: Jonathan Kamanou <jpk249@cornell.edu>
+Date:   Mon May 14 18:55:27 2018 -0400
+
+    chestopen
+
+commit 6a1023e08b6bafdef3bcc1600cce90c5ebcfe8be
+Author: Ghp <ghp42@cornell.edu>
+Date:   Mon May 14 18:23:53 2018 -0400
+
+    push
+
+commit 7dce58b6e35053f2553a2412eab8106c864ed624
+Author: Ghp <ghp42@cornell.edu>
+Date:   Mon May 14 18:22:27 2018 -0400
+
+    hi
+
+commit d3a4840a82d3a6116ff50abe6558f146aa9e537a
+Author: Jonathan Kamanou <jpk249@cornell.edu>
+Date:   Mon May 14 18:13:03 2018 -0400
+
+    chest
+
+commit 6f244b520dd025e297560f253ab968433c0bd359
+Merge: 54d929f 42e7c79
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Mon May 14 02:59:41 2018 -0400
+
+    Merge branch 'master' of github.coecis.cornell.edu:lev27/caml-break
+
+commit 54d929f0a6826538b11cf9dbe77970a5358917a6
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Mon May 14 02:59:38 2018 -0400
+
+    message stuff
+
+commit 42e7c795c0b4f3e426a53e9834a0badc0eebcb5e
+Merge: 56aa61a a1817ab
+Author: Jonathan Kamanou <jpk249@cornell.edu>
+Date:   Mon May 14 02:31:44 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/lev27/caml-break
+
+commit 56aa61abf2e5f488e6eee4e817bb4c3672ed19cd
+Author: Jonathan Kamanou <jpk249@cornell.edu>
+Date:   Mon May 14 02:31:34 2018 -0400
+
+    floor
+
+commit 52a1705dcdf55deb17034bdf4bb6da722bf414a0
+Merge: c62c6c9 a1817ab
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Mon May 14 02:10:03 2018 -0400
+
+    Merge branch 'master' of github.coecis.cornell.edu:lev27/caml-break
+
+commit c62c6c9c87398eec777aa5a8a927d67248a51a32
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Mon May 14 02:10:01 2018 -0400
+
+    state changes
+
+commit a1817ab1f90b0460d1519682e85da44dda7b39f2
+Author: Ghp <ghp42@cornell.edu>
+Date:   Mon May 14 02:09:30 2018 -0400
+
+    hi
+
+commit 21850014487203e37daecb204eebe3e4553992c5
+Author: Ghp <ghp42@cornell.edu>
+Date:   Mon May 14 02:04:54 2018 -0400
+
+    more prisoners
+
+commit 2afdb1de87ba48cf6b56c4a7c1270b1028fccab2
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Mon May 14 01:51:29 2018 -0400
+
+    smol changes
+
+commit 0a2398e3b41ea47eb6a9af05b5987ea5e1f1103a
+Merge: 5bc2ae6 5838897
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Mon May 14 01:42:38 2018 -0400
+
+    Merge branch 'master' of github.coecis.cornell.edu:lev27/caml-break
+
+commit 5bc2ae66cbe29f7e96fcf4f7aeb8cc5411e65d04
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Mon May 14 01:42:35 2018 -0400
+
+    interact start
+
+commit 5838897c00f9c9b26dc3aecd6400a1dc1eb1556d
+Merge: a8b5c98 c0bdf82
+Author: Jonathan Kamanou <jpk249@cornell.edu>
+Date:   Mon May 14 01:40:33 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/lev27/caml-break
+
+commit a8b5c98f911bc9a7d25d7d579963cc5f7445ddfe
+Author: Jonathan Kamanou <jpk249@cornell.edu>
+Date:   Mon May 14 01:40:30 2018 -0400
+
+    m
+
+commit c0bdf82f23b39ce7400c02827e7fdb1451a16eae
+Merge: 0b7e9af 8c751a5
+Author: Ghp <ghp42@cornell.edu>
+Date:   Mon May 14 01:37:32 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/lev27/caml-break
+
+commit 0b7e9af073659f41fd5588f7e4c7fe17305ba874
+Author: Ghp <ghp42@cornell.edu>
+Date:   Mon May 14 01:37:25 2018 -0400
+
+    character moving
+
+commit 78ea5edcf7330d0ac6d3b38084d2e58bc6f9fd94
+Author: Jonathan Kamanou <jpk249@cornell.edu>
+Date:   Mon May 14 01:20:03 2018 -0400
+
+    doors
+
+commit 8c751a5c2b8722f0f379a03b603e291fe9bbd969
+Merge: d89aa3f 967e210
+Author: Jonathan Kamanou <jpk249@cornell.edu>
+Date:   Mon May 14 00:46:41 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/lev27/caml-break
+
+commit d89aa3f214bf2b2eeae0027b69d5acc2af38bc87
+Author: Jonathan Kamanou <jpk249@cornell.edu>
+Date:   Mon May 14 00:46:39 2018 -0400
+
+    m
+
+commit 967e210e76e7dc13745206d08fc3d4bf2e7e70f5
+Author: Ghp <ghp42@cornell.edu>
+Date:   Mon May 14 00:45:36 2018 -0400
+
+    grass unwalkable
+
+commit a8a0b10780a2dc6b22ba19711993064f0ff354cb
+Author: Ghp <ghp42@cornell.edu>
+Date:   Mon May 14 00:37:06 2018 -0400
+
+    ?
+
+commit 02bf4fab94fb1383546b3395c1a306cf9d332438
+Merge: 1e4e4d9 0da3686
+Author: Ghp <ghp42@cornell.edu>
+Date:   Mon May 14 00:35:52 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/lev27/caml-break
+
+commit 1e4e4d9734e841f6f5d898aea87fdd60f309e916
+Merge: 769430b dd7044d
+Author: Ghp <ghp42@cornell.edu>
+Date:   Mon May 14 00:35:49 2018 -0400
+
+    ay
+
+commit 769430bdba3a6458abaf5c4cf6ea1280cb4dc233
+Author: Ghp <ghp42@cornell.edu>
+Date:   Mon May 14 00:35:21 2018 -0400
+
+    hi?
+
+commit dd7044d9533cfb56a44c5ccbc220c13b0b27ac0c
+Merge: f47d921 c75b409
+Author: Jonathan Kamanou <jpk249@cornell.edu>
+Date:   Mon May 14 00:34:54 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/lev27/caml-break
+
+commit f47d921393e51610d67825377c6aa1df9d625176
+Author: Jonathan Kamanou <jpk249@cornell.edu>
+Date:   Mon May 14 00:34:48 2018 -0400
+
+    l
+
+commit 0da3686f2038054c636e7fa8bff41420912b4060
+Merge: c401dff dd7044d
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Mon May 14 00:34:43 2018 -0400
+
+    Merge branch 'master' of github.coecis.cornell.edu:lev27/caml-break
+
+commit c401dffd687a9ce5c8b7d374d4f4ec327c9afc39
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Mon May 14 00:34:40 2018 -0400
+
+    fixed merge
+
+commit c75b409b614978abb24fbe953cbedb9f63674d9d
+Merge: bc62358 3a88ef5
+Author: Ghp <ghp42@cornell.edu>
+Date:   Mon May 14 00:33:28 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/lev27/caml-break
+
+commit bc62358df2413c5b8eb2fd1ca34544b57c55a4a6
+Author: Ghp <ghp42@cornell.edu>
+Date:   Mon May 14 00:33:23 2018 -0400
+
+    moving
+
+commit 3a88ef513f264116da10293c735017aa3c2dcfb2
+Merge: 892805b 1f20ae4
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Mon May 14 00:30:28 2018 -0400
+
+    Merge branch 'master' of github.coecis.cornell.edu:lev27/caml-break
+
+commit 1f20ae4ca409c6022fa4407900da7103ffc15149
+Merge: 1224c34 173d9d6
+Author: Jonathan Kamanou <jpk249@cornell.edu>
+Date:   Mon May 14 00:30:30 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/lev27/caml-break
+
+commit 1224c34abb67c1439147c6fe050b5608a226b773
+Author: Jonathan Kamanou <jpk249@cornell.edu>
+Date:   Mon May 14 00:30:07 2018 -0400
+
+    drop
+
+commit 892805b12d4e6a0bfd1ff2b8b72f46784a3a0c95
+Merge: 07a4cc4 173d9d6
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Mon May 14 00:29:52 2018 -0400
+
+    Merge branch 'master' of github.coecis.cornell.edu:lev27/caml-break
+
+commit 07a4cc43bd24507c63df3e4fc8067523266954ac
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Mon May 14 00:29:46 2018 -0400
+
+    fixed walking in walls
+
+commit 173d9d6c2fa7fa0e850a1d03088de1c06f020a03
+Author: Ghp <ghp42@cornell.edu>
+Date:   Mon May 14 00:22:38 2018 -0400
+
+    small changes
+
+commit d9ffb7108fba937d56d790f7e97be52a280f4c47
+Author: Ghp <ghp42@cornell.edu>
+Date:   Mon May 14 00:19:50 2018 -0400
+
+    wut
+
+commit f5171e7a70efe3bcaf35ff2ed983d2ddbda4e8cf
+Merge: 429f1d8 a6d819f
+Author: Ghp <ghp42@cornell.edu>
+Date:   Mon May 14 00:19:32 2018 -0400
+
+    hi
+
+commit 429f1d8b733aff8743424207f570fec02d7fe0b3
+Author: Ghp <ghp42@cornell.edu>
+Date:   Mon May 14 00:18:12 2018 -0400
+
+    edits
+
+commit 8a2a9c6247bd2484e1c76e2ef440723ffcbd8068
+Author: Ghp <ghp42@cornell.edu>
+Date:   Mon May 14 00:13:47 2018 -0400
+
+    hi
+
+commit a6d819f6832a5fb1109a38ec440775b1d0d1cf46
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Mon May 14 00:07:11 2018 -0400
+
+    movinggit add *git add *
+
+commit 83ddfe7f7257e4816be754385dc3494cb66f1d22
+Merge: 0e5aa4f 92cc2b9
+Author: Jonathan Kamanou <jpk249@cornell.edu>
+Date:   Sun May 13 23:52:04 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/lev27/caml-break
+
+commit 0e5aa4fa2f24f97b3e8fffaf943be0782fe380bc
+Author: Jonathan Kamanou <jpk249@cornell.edu>
+Date:   Sun May 13 23:52:01 2018 -0400
+
+    m
+
+commit 92cc2b90057c2e3c39498770d68193941c886834
+Merge: fea21bc 465e7fa
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Sun May 13 23:22:40 2018 -0400
+
+    merged
+
+commit fea21bcb70f2569162e9959227b040f380343623
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Sun May 13 23:19:15 2018 -0400
+
+    finished move
+
+commit 465e7fa10c035aa6c617e8d46ecb6f56f6d1fdb6
+Merge: 2bc75e3 a67b8ff
+Author: Jonathan Kamanou <jpk249@cornell.edu>
+Date:   Sun May 13 23:15:27 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/lev27/caml-break
+
+commit 2bc75e3b82da75e96257dd0827dd36cfc75a0897
+Author: Jonathan Kamanou <jpk249@cornell.edu>
+Date:   Sun May 13 23:15:19 2018 -0400
+
+    drop
+
+commit a67b8ffc1f2041a12f56e4dfca1356ae37de6b17
+Author: Ghp <ghp42@cornell.edu>
+Date:   Sun May 13 23:15:03 2018 -0400
+
+    hola
+
+commit 7286f949ce74ffa40a181c700233e7fe6d297922
+Author: Ghp <ghp42@cornell.edu>
+Date:   Sun May 13 23:13:27 2018 -0400
+
+    hi
+
+commit 7ed3359689c59575859460672ccc530c025a60bc
+Author: Ghp <ghp42@cornell.edu>
+Date:   Sun May 13 23:11:26 2018 -0400
+
+    hi
+
+commit d2015a0a35f3fc0c15555519cbf1740525f94f91
+Merge: e0de0d2 eddfe11
+Author: Ghp <ghp42@cornell.edu>
+Date:   Sun May 13 23:10:43 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/lev27/caml-break
+
+commit e0de0d2c82c2fc13913899401f98b623439c28de
+Author: Ghp <ghp42@cornell.edu>
+Date:   Sun May 13 23:10:37 2018 -0400
+
+    m
+
+commit eddfe11eba9f3a2b355dd1d3b3cd2dae8ea60e44
+Merge: f138ed2 94ab505
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Sun May 13 21:47:32 2018 -0400
+
+    merged
+
+commit f138ed2c7850806364e3c245e68355bbef885776
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Sun May 13 21:46:23 2018 -0400
+
+    boop
+
+commit 94ab5054cccb6ce0ae41875645f695d28f06a6c2
+Author: Ghp <ghp42@cornell.edu>
+Date:   Sun May 13 20:54:22 2018 -0400
+
+    CHRACTERS
+
+commit 0798b06b82b94f5355f7225ab39999576aba79d1
+Merge: cd3b99b 65bb3c7
+Author: Ghp <ghp42@cornell.edu>
+Date:   Sun May 13 20:30:10 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/lev27/caml-break
+
+commit cd3b99bd2326ed8bf6f3c5723d00b2b793b0d4ae
+Author: Ghp <ghp42@cornell.edu>
+Date:   Sun May 13 20:30:07 2018 -0400
+
+    char
+
+commit 65bb3c73bb76ee448e5a8f2ed6f33c717649ae69
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Sun May 13 20:06:13 2018 -0400
+
+    adding move commands
+
+commit 02f3cf2a9bfd3659dab77573be4e473e27ce70ba
+Author: Jonathan Kamanou <jpk249@cornell.edu>
+Date:   Sun May 13 20:05:44 2018 -0400
+
+    m
+
+commit 1c1b700cfc70db736f570c92fefddb2fd59443a6
+Author: Jonathan Kamanou <jpk249@cornell.edu>
+Date:   Sun May 13 18:40:56 2018 -0400
+
+    m
+
+commit 38f127e688cabe553ee9aae91098a282e59933bd
+Merge: d6970bb 12c39b6
+Author: Ghp <ghp42@cornell.edu>
+Date:   Sun May 13 18:32:29 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/lev27/caml-break
+
+commit d6970bb07e47698ef5d3dd7a08f4e312c4b7d2a3
+Author: Ghp <ghp42@cornell.edu>
+Date:   Sun May 13 18:32:18 2018 -0400
+
+    changed door elft
+
+commit 12c39b6c8b4de132809d32f311d8760cd40f6c03
+Merge: 1bdf7b6 91efaa2
+Author: Jonathan Kamanou <jpk249@cornell.edu>
+Date:   Sun May 13 18:29:02 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/lev27/caml-break
+
+commit 1bdf7b64d7f3c04a723478b48323270c35f9ebc0
+Author: Jonathan Kamanou <jpk249@cornell.edu>
+Date:   Sun May 13 18:28:59 2018 -0400
+
+    w
+
+commit 91efaa2257b3de57eaeabcfbbc683136ac1745e0
+Author: Ghp <ghp42@cornell.edu>
+Date:   Sun May 13 18:28:50 2018 -0400
+
+    door added
+
+commit b86339e7c197fb8170ad0a6a57bd258a9fa06b9b
+Author: Ghp <ghp42@cornell.edu>
+Date:   Sun May 13 18:06:49 2018 -0400
+
+    sprites edits
+
+commit 8b789bf961cb62d5b6b67a9f950eef39da9e8fa0
+Author: Ghp <ghp42@cornell.edu>
+Date:   Sun May 13 17:57:31 2018 -0400
+
+    bed size edited again
+
+commit 1b3666d7c6e3541003f8b29df44d8478c22b3a5f
+Author: Ghp <ghp42@cornell.edu>
+Date:   Sun May 13 17:56:04 2018 -0400
+
+    Bed  size edited
+
+commit e8b395d77abe21844f89b27356886fdcb76f75fd
+Merge: 9c3696c fa2b88b
+Author: Ghp <ghp42@cornell.edu>
+Date:   Sun May 13 17:49:05 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/lev27/caml-break
+
+commit 9c3696c49c2645380ef11efc709ea08a18c7157b
+Author: Ghp <ghp42@cornell.edu>
+Date:   Sun May 13 17:48:13 2018 -0400
+
+    ds store is deleted
+
+commit 059358ebbe908df7f95fe10821f4aeb25d371d35
+Author: Ghp <ghp42@cornell.edu>
+Date:   Sun May 13 17:47:59 2018 -0400
+
+    new bed added
+
+commit fa2b88bef2d0683a6d2b684bdfde23db59587af8
+Merge: 3e5e0ce ca77a0e
+Author: Jonathan Kamanou <jpk249@cornell.edu>
+Date:   Sun May 13 17:37:30 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/lev27/caml-break
+
+commit 3e5e0cec2384fc9ff55992a5e0989966bc74ef50
+Author: Jonathan Kamanou <jpk249@cornell.edu>
+Date:   Sun May 13 17:37:25 2018 -0400
+
+    ...
+
+commit ca77a0e5694354b71c1a3c502bd85755aa7f389b
+Author: Ghp <ghp42@cornell.edu>
+Date:   Sun May 13 17:33:12 2018 -0400
+
+    added grass
+
+commit 1857ea936904ababecfcdd7121a6374988efd0b5
+Merge: f4215bc 7c18329
+Author: Ghp <ghp42@cornell.edu>
+Date:   Sun May 13 17:32:00 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/lev27/caml-break
+
+commit f4215bcb02678f164ece8084d214f251f918f90a
+Author: Ghp <ghp42@cornell.edu>
+Date:   Sun May 13 17:30:13 2018 -0400
+
+    grass
+
+commit 4dad44b3757fcaf058a4d994944ad70ce5d8f217
+Author: Ghp <ghp42@cornell.edu>
+Date:   Sun May 13 17:26:37 2018 -0400
+
+    grass
+
+commit 7c18329e8443b5567c8ce87acb4aac180a2c1714
+Author: Jonathan Kamanou <jpk249@cornell.edu>
+Date:   Sun May 13 17:26:27 2018 -0400
+
+    guiii
+
+commit 1f444ed1cfbe61a198aabb1fa831a82e624fe248
+Author: Jonathan Kamanou <jpk249@cornell.edu>
+Date:   Sun May 13 14:38:49 2018 -0400
+
+    walls 1
+
+commit 31eafda8a11b922e7a5b2414eafc48410d7197b0
+Author: Ghp <ghp42@cornell.edu>
+Date:   Sat May 12 22:57:08 2018 -0400
+
+    hey hey
+
+commit 41cf72bb39a6a5d6933f982b63a3ed038efc698c
+Author: Ghp <ghp42@cornell.edu>
+Date:   Sat May 12 22:51:34 2018 -0400
+
+    hi
+
+commit 75fac5b9b0077a4b8dd51c5b8e47bce7b4878cfd
+Merge: e464c63 736b042
+Author: Jonathan Kamanou <jpk249@cornell.edu>
+Date:   Sat May 12 22:50:05 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/lev27/caml-break
+
+commit e464c63e23ccdd16991573f8d860b175e692549e
+Author: Jonathan Kamanou <jpk249@cornell.edu>
+Date:   Sat May 12 22:50:01 2018 -0400
+
+    ll
+
+commit 736b04267458d3e1ad8a37d8c941f0a1bc6812a1
+Merge: 8c21220 838f987
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Sat May 12 22:49:41 2018 -0400
+
+    merged
+
+commit 8c21220246a21add931abd16d9605f5dd1b92ad0
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Sat May 12 22:47:59 2018 -0400
+
+    GUI FINALLY WORKING
+
+commit 838f9873702560f41678d2f1d9d5d7c88df44d08
+Author: Ghp <ghp42@cornell.edu>
+Date:   Sat May 12 22:46:23 2018 -0400
+
+    mooreee
+
+commit 6e7ba1c26d7d7f887a5b6c1a1cc0da9cb61f1e61
+Author: Ghp <ghp42@cornell.edu>
+Date:   Sat May 12 22:44:55 2018 -0400
+
+    more
+
+commit 354b86e9ead9e5b4baca0ec1ea1db93df8bb386f
+Author: Ghp <ghp42@cornell.edu>
+Date:   Sat May 12 22:38:39 2018 -0400
+
+    types and gui updated
+
+commit 2f0401297c4af5ac5c28f117d61921cb455b063f
+Author: Ghp <ghp42@cornell.edu>
+Date:   Sat May 12 22:26:05 2018 -0400
+
+    m
+
+commit 1d2b400d6e2b5a08e8826ee43414e80e3dbf93d4
+Merge: fe0f4f7 67d0208
+Author: Ghp <ghp42@cornell.edu>
+Date:   Sat May 12 22:20:10 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/lev27/caml-break
+
+commit fe0f4f797266c8f1e122e007e46482c3738cf6b0
+Author: Ghp <ghp42@cornell.edu>
+Date:   Sat May 12 22:19:45 2018 -0400
+
+    b
+
+commit 67d020876d03bfec2b9f3a44b30a41c1e22653e1
+Merge: c6e81f1 449d5fe
+Author: Jonathan Kamanou <jpk249@cornell.edu>
+Date:   Sat May 12 22:18:38 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/lev27/caml-break
+
+commit c6e81f1d4d75da44075529ce1d1136acf53daaec
+Author: Jonathan Kamanou <jpk249@cornell.edu>
+Date:   Sat May 12 22:18:06 2018 -0400
+
+    v
+
+commit 449d5fe7a5ca2bd31cd56e228550e270c4d793ed
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Sat May 12 22:09:59 2018 -0400
+
+    fixed merge conflicts
+
+commit 6a2263a03ae6032fa81658884c92f086f2cce04a
+Merge: ca4f6cb e215cba
+Author: Jonathan Kamanou <jpk249@cornell.edu>
+Date:   Sat May 12 21:14:39 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/lev27/caml-break
+
+commit ca4f6cb9a83fbf5cf7d72fa5cafa6d9cf98090b0
+Author: Jonathan Kamanou <jpk249@cornell.edu>
+Date:   Sat May 12 21:12:17 2018 -0400
+
+    ...
+
+commit e215cba5ba3a349ae88d74eac2e8b3fbb00322f0
+Merge: 8a0c5af 829a1f9
+Author: Ghp <ghp42@cornell.edu>
+Date:   Sat May 12 21:07:57 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/lev27/caml-break
+
+commit 8a0c5af00bb6b0508afca964197baf94f949f387
+Author: Ghp <ghp42@cornell.edu>
+Date:   Sat May 12 21:06:45 2018 -0400
+
+    m
+
+commit 829a1f9a430bcd78cb142edf25fe096f642aac5b
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Sat May 12 20:54:33 2018 -0400
+
+    merged for realz
+
+commit 7fdbb35ca063021d383d9492c7824667231ead32
+Merge: 08d82a5 29845e6
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Sat May 12 20:45:14 2018 -0400
+
+    merged
+
+commit 08d82a53bdcd5e4956be8ab48b2a06bbed6cfa98
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Sat May 12 20:44:05 2018 -0400
+
+    set up for displaying images
+
+commit 29845e6f8ab8d81fb912ec9c8635dd5e68a0064e
+Merge: 3fa4579 ce206f9
+Author: Ghp <ghp42@cornell.edu>
+Date:   Sat May 12 20:16:21 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/lev27/caml-break
+
+commit 3fa4579d87b133808747fc0b10c259bdbe62a551
+Author: Ghp <ghp42@cornell.edu>
+Date:   Sat May 12 20:16:17 2018 -0400
+
+    sprites
+
+commit ce206f924741008b01b938b3888472b7eb7694c2
+Merge: 9ce624c 9de1d4c
+Author: Jonathan Kamanou <jpk249@cornell.edu>
+Date:   Sat May 12 19:46:37 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/lev27/caml-break
+
+commit 9ce624c52b631069b8d98270d1b9315234be50a4
+Author: Jonathan Kamanou <jpk249@cornell.edu>
+Date:   Sat May 12 19:46:03 2018 -0400
+
+    ok
+
+commit 9de1d4c035e607bab85b9c95ff8f3cf49c57c244
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Sat May 12 19:34:06 2018 -0400
+
+    updated types
+
+commit d8f46fe03c34972c0ed9a96eb7748605c387f4b6
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Sat May 12 19:27:10 2018 -0400
+
+    merged pt 4
+
+commit ce506e8f9a1e90c0e02dc6809ebe6c8e771b12aa
+Merge: d618a53 fb5c242
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Sat May 12 19:25:11 2018 -0400
+
+    Merge branch 'master' of github.coecis.cornell.edu:lev27/caml-break
+
+commit fb5c24282caf29f56386abd27407634f469b21c5
+Merge: f043468 30ae748
+Author: Ghp <ghp42@cornell.edu>
+Date:   Sat May 12 19:36:30 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/lev27/caml-break
+
+commit f043468d1e99cd07bcac4aad7c741b821ea4c4cf
+Author: Ghp <ghp42@cornell.edu>
+Date:   Sat May 12 19:36:26 2018 -0400
+
+    m
+
+commit 30ae748c99ad5e29beb8022dda7e233484ab1207
+Author: Jonathan Kamanou <jpk249@cornell.edu>
+Date:   Sat May 12 19:34:32 2018 -0400
+
+    m
+
+commit d618a536bad013fe0455e277db6b0a03ce1ebec2
+Merge: b663d10 30ae748
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Sat May 12 19:25:03 2018 -0400
+
+    merged
+
+commit b663d1070163a6722d3659c70412c356b1c01140
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Sat May 12 19:23:46 2018 -0400
+
+    gui
+
+commit 7590fc41f1415f1a2cfe0d8f330ee1e29e68619c
+Merge: 1c51550 62945e7
+Author: Ghp <ghp42@cornell.edu>
+Date:   Sat May 12 18:24:31 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/lev27/caml-break
+
+commit 1c51550b9134fbd12ec360e83fcac0b7df2a70e9
+Author: Ghp <ghp42@cornell.edu>
+Date:   Sat May 12 18:24:12 2018 -0400
+
+    hello
+
+commit 62945e730e50a323f0d1793caaf6808785fba30f
+Merge: ddf903b 838ed81
+Author: Jonathan Kamanou <jpk249@cornell.edu>
+Date:   Sat May 12 18:23:51 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/lev27/caml-break
+
+commit 9339c2a8e012b08f4ecd699db33ae4ecacf4cbe3
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Sat May 12 18:15:27 2018 -0400
+
+    initial sprites
+
+commit 838ed81cf5eb5f596f3bc88aed5f34c3dc495499
+Merge: 7f42e2b efad888
+Author: Ghp <ghp42@cornell.edu>
+Date:   Sat May 12 18:06:16 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/lev27/caml-break
+
+commit 7f42e2b3aa40cb6cfe157cff202337da25c51794
+Author: Ghp <ghp42@cornell.edu>
+Date:   Sat May 12 18:05:58 2018 -0400
+
+    m
+
+commit ddf903bb5ef82fe6a79376e2e4e36c48948b2067
+Merge: 178ca78 efad888
+Author: Jonathan Kamanou <jpk249@cornell.edu>
+Date:   Sat May 12 18:05:44 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/lev27/caml-break
+
+commit 178ca7851254f1e47d67c11075287bcb872bc561
+Author: Jonathan Kamanou <jpk249@cornell.edu>
+Date:   Sat May 12 18:05:23 2018 -0400
+
+    m
+
+commit efad888ac7a0aa62617e41bd69fd3e1af6e9e815
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Sat May 12 17:51:32 2018 -0400
+
+    add build
+
+commit 1ecb76429454ac4744168dc3852ac98cb6ac93ab
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Sat May 12 17:19:44 2018 -0400
+
+    almost built
+
+commit a4216f86b75b400f70e7f4044eae0997be8a7973
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Sat May 12 13:45:17 2018 -0400
+
+    added _tags
+
+commit a3bcb9d5d9395cbffc9a528a547a987563a22464
+Author: Jonathan Kamanou <jpk249@cornell.edu>
+Date:   Tue May 1 22:02:16 2018 -0400
+
+    tests
+
+commit 6034a5a8d916f0ecdbf81fb96c61dfd56447cd64
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Tue May 1 21:27:39 2018 -0400
+
+    determin_interaction function
+
+commit c3fa8f3637991ce924fdf82c84197835bb6495d3
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Tue May 1 20:57:14 2018 -0400
+
+    edited comment
+
+commit b39c63c0c3d167cf1e74e3fbe81aece5d372fe9a
+Merge: 90b7b4c 9d250b2
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Tue May 1 20:56:23 2018 -0400
+
+    Merge branch 'master' of github.coecis.cornell.edu:lev27/caml-break
+
+commit 9d250b20a107ce26499a1d7522db908b20563688
+Author: Jonathan Kamanou <jpk249@cornell.edu>
+Date:   Tue May 1 21:06:39 2018 -0400
+
+    m
+
+commit 90b7b4c02ad6e86703c5bbcf294ce3e45382daff
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Tue May 1 20:54:59 2018 -0400
+
+    character.mli and changes to types
+
+commit c70adc8bfd713d8201de1250d50f802c92715b7b
+Merge: 18708bf 5498854
+Author: Jonathan Kamanou <jpk249@cornell.edu>
+Date:   Tue May 1 20:36:02 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/lev27/caml-break
+
+commit 18708bf567098a198cbab3341dfab0e256b1def2
+Author: Jonathan Kamanou <jpk249@cornell.edu>
+Date:   Tue May 1 20:36:00 2018 -0400
+
+    m
+
+commit a9b146af310be778a45ba2ea4d2ea700ac836d05
+Merge: c89afb3 0628d19
+Author: Jonathan Kamanou <jpk249@cornell.edu>
+Date:   Tue May 1 20:33:39 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/lev27/caml-break
+
+commit c89afb3983c2c02ea361549fdd65080164cebeea
+Author: Jonathan Kamanou <jpk249@cornell.edu>
+Date:   Tue May 1 20:33:15 2018 -0400
+
+    c
+
+commit 5498854d7a3ce67e589d01df362ed8c67e184c19
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Tue May 1 20:20:38 2018 -0400
+
+    merged
+
+commit 0628d196e90a3df90e04b73f8759774af4ef0187
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Tue May 1 20:18:49 2018 -0400
+
+    shit complies
+
+commit 43448599065ca716e74000928c99377f3f0222a0
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Tue May 1 01:56:35 2018 -0400
+
+    random work on main and game and types and state
+
+commit 32d3540d0de01c0fdde34de2ab02dbc9d6ce7988
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Mon Apr 30 21:18:06 2018 -0400
+
+    added ai
+
+commit 9c6161cc6eca49f4d94a08470bfb64e684423fa3
+Merge: 4c8fa72 22f7c17
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Mon Apr 30 21:16:34 2018 -0400
+
+    Merge branch 'master' of github.coecis.cornell.edu:lev27/caml-break
+
+commit 22f7c17220bea8fff73588c4401502415a49639a
+Author: Jonathan Philip Kamanou <jpk249@cornell.edu>
+Date:   Mon Apr 30 21:16:29 2018 -0400
+
+    Add files via upload
+
+commit 4c8fa72d40951be8d23829bb04e32b7e5a04cb67
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Mon Apr 30 21:16:27 2018 -0400
+
+    rando changes
+
+commit ca43fc6adbbbdb42ba48f6368c0e43202bac5aeb
+Author: Jonathan Philip Kamanou <jpk249@cornell.edu>
+Date:   Mon Apr 30 20:18:54 2018 -0400
+
+    Add files via upload
+
+commit 4c2f9427a5c348dc7be74a3140575dca23c5d218
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Fri Apr 27 17:06:52 2018 -0400
+
+    testing out js_of_ocaml
+
+commit 3bad41872c8d6461ad302ce79c2b342d60b9e2bb
+Author: Luis Verdi <lev27@cornell.edu>
+Date:   Fri Apr 13 01:17:12 2018 -0400
+
+    Initial commit
